@@ -1,10 +1,12 @@
 ### PATH
 
+---
+
 #### HTML
 
-- [ ] HTML5
-- [ ] CSS Fundamentals
-- [ ] CSS Grid
+- [x] HTML5
+- [x] CSS Fundamentals
+- [x] CSS Grid
 - [ ] Flexbox
 - [ ] CSS Custom Properties
 - [ ] CSS Transitions
