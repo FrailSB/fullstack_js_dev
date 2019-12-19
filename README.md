@@ -7,7 +7,7 @@
 - [x] HTML5
 - [x] CSS Fundamentals
 - [x] CSS Grid
-- [ ] Flexbox
+- [x] Flexbox
 - [ ] CSS Custom Properties
 - [ ] CSS Transitions
 
