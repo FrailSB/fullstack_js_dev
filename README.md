@@ -9,7 +9,7 @@
 - [x] CSS Grid
 - [x] Flexbox
 - [x] CSS Custom Properties
-- [ ] CSS Transitions
+- [x] CSS Transitions
 
 #### Responsive Design
 
