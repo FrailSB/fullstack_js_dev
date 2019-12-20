@@ -8,7 +8,7 @@
 - [x] CSS Fundamentals
 - [x] CSS Grid
 - [x] Flexbox
-- [ ] CSS Custom Properties
+- [x] CSS Custom Properties
 - [ ] CSS Transitions
 
 #### Responsive Design
