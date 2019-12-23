@@ -13,8 +13,8 @@
 
 #### Responsive Design
 
-- [ ] Viewport
-- [ ] Media Queries
+- [x] Viewport
+- [x] Media Queries
 - [ ] Fluid Widths
 - [ ] rem units over px
 - [ ] Mobile First
