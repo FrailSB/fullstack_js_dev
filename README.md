@@ -15,7 +15,7 @@
 
 - [x] Viewport
 - [x] Media Queries
-- [ ] Fluid Widths
+- [x] Fluid Widths
 - [ ] rem units over px
 - [ ] Mobile First
 
