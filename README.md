@@ -17,7 +17,7 @@
 - [x] Media Queries
 - [x] Fluid Widths
 - [x] rem units over px
-- [ ] Mobile First
+- [x] Mobile First
 
 #### Custom Reusable CSS Components (SASS)
 
