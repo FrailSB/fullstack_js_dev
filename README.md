@@ -21,14 +21,13 @@
 
 #### Custom Reusable CSS Components (SASS)
 
-- [ ] Variables
-- [ ] Nesting
-- [ ] Conditionals
+- [x] Variables
+- [x] Nesting
+- [x] Conditionals
 
 #### CSS Frameworks
 
-- [ ] Bootstrap
-- [ ] Tailwind CSS
+- [x] Tailwind CSS
 
 #### Vanilla JavaScript
 
